@@ -1,2 +1,2 @@
-# Non-Euler-Calculator
-A calculator that doesn't use "E" for big numbers, It's also accurate to up to 0.0001
+# Welcome to Non-Euler-Calculator!
+The calculator that doesn't use "E" for big numbers, and that's also accurate to up to 0.0001
